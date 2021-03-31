@@ -1,0 +1,9 @@
+.logo{
+    display: flex;
+    text-align: center;
+    background: yellow;
+}
+.navbar{
+    background: purple;
+    display:flex;
+}
