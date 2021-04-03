@@ -3,19 +3,25 @@
     background-color:lightblue;
     width: 30%;
     Height:20%;
-    padding:10px;
+    padding:1%;
 
 }
 .my-name{
+    padding-top:3% ;
+    padding-bottom: 10%;
     text-align: center;
 
 }
 .about-me{
-    text-align: center;
-    height:50vh;
+    
+    height:100vh;
     background-image:url("https://images.unsplash.com/photo-1472289065668-ce650ac443d2?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NTl8fGVkdWNhdGlvbnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
     background-repeat: no-repeat;
     background-size: cover;
+    /* background:fixed; */
+}
+.about-me img{
+    background: fixed;
 }
 .logo{
     font-family: 'Arizonia', cursive;
