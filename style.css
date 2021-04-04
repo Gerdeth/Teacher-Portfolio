@@ -19,10 +19,6 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
-/* .home-page{
-
-    margin-top: 30px;
-} */
 
 .navbar{
     overflow: hidden;
@@ -44,6 +40,9 @@
     font-size: 130px;
     display: block;
     text-align: center;
+}
+.home-page{
+    padding:2%;
 }
 body{
     background-color:white;
