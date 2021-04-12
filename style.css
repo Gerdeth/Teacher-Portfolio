@@ -1,3 +1,15 @@
+.math-plans{
+    text-align: center;
+    background-color: red;
+}
+.lesson-plans{
+    height:100vh;
+    background: url("https://images.unsplash.com/photo-1586093708488-7e30a6e77396?ixid=MXwxMjA3fDB8MHx0b3BpYy1mZWVkfDE1fGJvOGpRS1RhRTBZfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+
+}
 .card-body{
     background-color:lightgray;
 }
