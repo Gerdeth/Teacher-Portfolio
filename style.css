@@ -6,6 +6,8 @@
     padding-top: 15%;
     background-color: yellow;
     display:flex;
+    justify-content: space-evenly;
+    
 
 }
 .card-body{
