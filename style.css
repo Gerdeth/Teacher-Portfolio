@@ -13,6 +13,10 @@
 .card-body{
     background-color:lightgray;
 }
+.card-img-top{
+    width: 100%;
+    height:50%
+}
 .quote{
     margin:auto;
     background-color:lightblue;
