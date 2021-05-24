@@ -1,3 +1,7 @@
+h3{
+    padding-top:5%;
+    
+}
 .math{
     text-align: center;
 }
@@ -15,9 +19,9 @@
     background-color:lightgray;
 
 }
-.card-group{
-    padding-top: 15%;
-}
+/* .card-group{
+    padding-top: 5%;
+} */
 .card-img-top{
 
     width: 100%;
