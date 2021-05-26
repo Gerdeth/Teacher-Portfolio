@@ -1,5 +1,5 @@
-h3{
-    padding-top:5%;
+h3, h1{
+    padding-top:10%;
     
 }
 .math{
@@ -63,6 +63,7 @@ h3{
 .navbar ul{
     display: flex;
     list-style: none;
+    
 }
 .logo{
     font-family: 'Arizonia', cursive;
